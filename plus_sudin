@@ -2,7 +2,7 @@
 import sys
            　　 
 ans = 0   #もともと0.0だったのを0に変更
-for line in sys.stdin:
+for line in sys.sudin:
     try: 
         ans += int(line)   #intは文字列を整数に（失敗すると例外発生）
     except:
