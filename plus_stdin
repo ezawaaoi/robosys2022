@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#SPDX-FileCopyrightText: 2202 Ezawa Aoi
 import sys
 
 ans = 0
