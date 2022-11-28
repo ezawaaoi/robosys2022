@@ -29,7 +29,6 @@ $ seq 5 | ./plus
   * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ## 謝辞
-上田隆一(ryuichi udeda)先生の資料を参考にさせていただいているため感謝申し上げます。
-
+上田隆一(ryuichi udeda)先生の資料を参考にさせていただいているため感謝申し上げます.
 
 © 2022 Aoi Ezawa
