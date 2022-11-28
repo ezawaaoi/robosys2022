@@ -1,5 +1,5 @@
 #!/bin/bash -xv
-# SPDX-FileCopyrightText: 202 Aoi Ezawa
+# SPDX-FileCopyrightText: 2022 Aoi Ezawa
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng (){
