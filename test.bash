@@ -11,10 +11,7 @@ ng (){
 res=0
 +res=0
 
-
-out=$(seq 5 | ./puls)
-[ "${out}" = 15 ] || ng ${LINENO}
-  
+### I/0 TEST ###  
 out=$(echo あ | ./plus)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
