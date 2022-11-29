@@ -5,7 +5,8 @@
 ## plusコマンド
 ![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足します。
+標準入力から読み込んだ数字を足します.
+
 
 * 実行結果
 ```
