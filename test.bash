@@ -21,3 +21,4 @@ res=0
 
 [ "$res" = 0 ] && echo OK
   exit $res
+
