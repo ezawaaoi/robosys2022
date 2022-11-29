@@ -1,3 +1,5 @@
+#robosys2022
+ロボットシステム学
 # インストール方法
 ```
 $ git clone git@github.com:ezawaaoi/robosys2022.git
@@ -5,6 +7,7 @@ $ cd robosys2022/
 ```
 # plusコマンド
 ![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
+
 標準入力から読み込んだ数字を足します。
 
 * 実行結果
@@ -12,9 +15,6 @@ $ cd robosys2022/
 $ seq 5 | ./plus
 15
 ```
-## 利用目的
-* ロボットシステム学を学ぶためのものです.
-
 ## 必要なソフトウェア
 * Python ver.3.7～3.10はテスト済みです.
 
@@ -29,6 +29,6 @@ $ seq 5 | ./plus
   * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 ## 謝辞
-上田隆一(ryuichi udeda)先生の資料を参考にさせていただいているため感謝申し上げます.
+ご指導いただいた上田隆一(ryuichi udeda)先生,上田隆一研究室のTAの皆様には大変お世話になりました.深く感謝申し上げます.
 
 © 2022 Aoi Ezawa
