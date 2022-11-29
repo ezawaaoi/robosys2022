@@ -1,9 +1,10 @@
-## robosys2022
+# robosys2022
 
 ロボットシステム学
 
-# plusコマンド
+## plusコマンド
 ![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
+
 標準入力から読み込んだ数字を足します。
 
 * 実行結果
@@ -11,7 +12,7 @@
 $ seq 5 | ./plus
 15
 ```
-# インストール方法
+## インストール方法
 ```
 $ git clone git@github.com:ezawaaoi/robosys2022.git
 $ cd robosys2022/
