@@ -2,8 +2,6 @@
 ## 概要
 千葉工業大学 未来ロボティクス学科 ロボットシステム学の講義で作成したリポジトリです.
 
-![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
-
 ## インストール方法
 ```
 $ git clone git@github.com:ezawaaoi/robosys2022.git
@@ -15,6 +13,8 @@ $ git clone https://github.com/ezawaaoi/robosys2022
 $ cd robosys2022/
 ```
 # plusコマンド
+![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
+
 標準入力から読み込んだ数字を足して,標準出力します.
 
 * 使用例
