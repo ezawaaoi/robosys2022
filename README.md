@@ -4,7 +4,7 @@
 
 ![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
 
-##インストール方法
+## インストール方法
 ```
 $ git clone git@github.com:ezawaaoi/robosys2022.git
 $ cd robosys2022/
