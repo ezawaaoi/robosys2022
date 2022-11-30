@@ -11,7 +11,7 @@ $ cd robosys2022/
 ```
 githubにアカウントがない方はこちら
 ```
-https://github.com/ezawaaoi/robosys2022
+$ git clone https://github.com/ezawaaoi/robosys2022
 ```
 # plusコマンド
 標準入力から読み込んだ数字を足して,標準出力します.
