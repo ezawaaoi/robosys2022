@@ -2,9 +2,10 @@
 ## 概要
 千葉工業大学　未来ロボティクス学科　ロボットシステム学の講義で作成したリポジトリです．
 
+## plusコマンド
 ![test](http://github.com/ezawaaoi/robosys2022/actions/workflows/test.yml/badge.svg)
-
-## インストール方法
+標準入力から読み込んだ数字を足して，標準出力をします．
+* インストール方法
 ```
 $ git clone git@github.com:ezawaaoi/robosys2022.git
 $ cd robosys2022/
@@ -14,10 +15,6 @@ githubにアカウントがない方はこちらのコマンドをご利用く�
 $ git clone https://github.com/ezawaaoi/robosys2022
 $ cd robosys2022/
 ```
-## plusコマンド
-
-標準入力から読み込んだ数字を足して，標準出力をします．
-
 * 使用例
 ```
 $ seq 5 | ./plus
@@ -28,7 +25,7 @@ $ seq 5 | ./plus
 * Ubuntu 22.04
 
 ## 必要なソフトウェア
-* Python 3.7～3.10（動作確認済み）
+* Python 3.7～3.10 （動作確認済み）
 
 ## LICENSE
 * このソフトウェアパッケージは, 3条項BSDライセンスの下，再頒布および使用が許可されます．
